@@ -1,4 +1,4 @@
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
+# Hey!! Great to see you here! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px" height="30px">
 <a href="https://asmit2952.github.io/" target="blank" ><img src="https://scontent.falg6-1.fna.fbcdn.net/v/t39.30808-6/333051673_1613613209052443_3801608089304898106_n.png?stp=dst-png_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8Fd46UV6x4IAX8DUaU8&_nc_ht=scontent.falg6-1.fna&oh=00_AfAAs4fahJw5Q6Fw1UjhQEK4BBIeuERTEZ_kwKlVSNM_Yg&oe=63FDA3E0"></a>
 <h3 align="center">
 I'M FULL STACK DEVELOPER 
